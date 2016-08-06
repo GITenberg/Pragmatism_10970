@@ -1,0 +1,38 @@
+_repo: Pragmatism_10970
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Schiller, F. C. S. (Ferdinand Canning Scott)
+    aliases:
+    - Schiller, Ferdinand Canning Scott
+    - Troglodyte, A.
+    birthdate: 1864
+    deathdate: 1937
+    gutenberg_agent_id: '35735'
+    url: http://www.gutenberg.org/2009/agents/35735
+creator:
+  author:
+    agent_name: Murray, D. L. (David Leslie)
+    alias: Murray, David Leslie
+    birthdate: 1888
+    deathdate: 1962
+    gutenberg_agent_id: '3776'
+    url: http://www.gutenberg.org/2009/agents/3776
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pragmatism'
+- !lcc 'B'
+- GITenberg
+tableOfContents: The genesis of pragmatism -- The new psychology -- Will in cognition
+  -- The dilemmas of dogmatism -- The problem of truth and error -- The failure of
+  formal logic -- The bankruptcy of intellectualism -- Thought and life.
+title: Pragmatism
+url: http://www.gutenberg.org/ebooks/10970
